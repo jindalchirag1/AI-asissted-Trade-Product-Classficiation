@@ -37,6 +37,8 @@ Because the dataset is highly imbalanced, success was measured using:
 ## **🛠️ Repository Structure**
 
 ### 🛠️ Repository Structure
+
+```text
 ├── models/
 │   ├── model_configs/          # Hyperparameter configurations
 │   └── architecture_notes.md   # Detailed logic for model selection
@@ -46,6 +48,8 @@ Because the dataset is highly imbalanced, success was measured using:
 ├── README.md
 └── results_summary.txt         # High-level performance comparison (No raw data)
 
+
+```
 ## **💡 Key Findings**
 
 * **Context over Frequency:** The BETO model significantly outperformed traditional Boosting models on descriptions containing ambiguous technical jargon.  
