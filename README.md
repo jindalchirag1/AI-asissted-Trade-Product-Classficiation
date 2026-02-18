@@ -55,7 +55,7 @@ Because the dataset is highly imbalanced, success was measured using:
 * **Imbalance Handling:** Class weighting proved more effective than synthetic oversampling (SMOTE) due to the presence of classes with extremely low support.  
 * **Production Trade-offs:** While Transformers provided higher accuracy, Gradient Boosting models offered 10x faster inference speeds, suggesting a hybrid deployment approach.
 
-## ** Contact & Inquiries**
+##  Contact & Inquiries
 
 This project was developed as part of my **M.Sc. Data Analytics Thesis**. If you are an employer or researcher interested in the full methodology or the specific performance metrics, please feel free to reach out.
 
