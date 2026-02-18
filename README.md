@@ -58,7 +58,7 @@ Because the dataset is highly imbalanced, success was measured using:
 
 ## **👤 Contact & Inquiries**
 
-This project was developed as part of my **AI Engineering Thesis**. If you are an employer or researcher interested in the full methodology or the specific performance metrics, please feel free to reach out.
+This project was developed as part of my **M.Sc. Data Analytics Thesis**. If you are an employer or researcher interested in the full methodology or the specific performance metrics, please feel free to reach out.
 
 **Skills Demonstrated:** Python • PyTorch • Hugging Face • XGBoost • LightGBM • Scikit-Learn • Spanish NLP
 
